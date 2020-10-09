@@ -1,5 +1,5 @@
 #This Repo is meant to hold fun and educational JS code for refernce.
-#TEST
+
 
       in-class-Javascript.js:
       Created three function.
