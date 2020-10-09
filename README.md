@@ -1,6 +1,6 @@
 #This Repo is meant to hold fun and educational JS code for refernce.
 
-in-class-Javascript.js:
+      in-class-Javascript.js:
       Created three function.
         The reverseArray functions just do that they reverse the input array.
         The reverseArrayShift uses Javas Shift functionin order to complete the task
